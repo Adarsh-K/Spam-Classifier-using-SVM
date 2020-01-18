@@ -1,4 +1,4 @@
-# I've made a Spam Classifier using SVM. The code is in Matlab.
+# This is a Spam Classifier using SVM. The code is in Matlab.
 Note: All the files are well documented and commented wherever I felt necessary
 
 Run the file named SpamClassificationusingSVM.m which does the following:
