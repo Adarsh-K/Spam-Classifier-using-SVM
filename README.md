@@ -1,6 +1,8 @@
 # This is a Spam Classifier using SVM. The code is in Matlab.
 Note: All the files are well documented and commented wherever I felt necessary
 
+## To see main code open SpamClassificationusingSVM.m
+
 Run the file named SpamClassificationusingSVM.m which does the following:
 1. Pre-processes the e-mail
 2. Feature Extraction- converts mail into vector of features
